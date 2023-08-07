@@ -1,0 +1,6 @@
+{
+	"toolchains": [
+		{"label": "Last version [v0.8.17]", "file": "lastVer.zip", "description": "", "ver": "0.8.17", "url": "https://github.com/Retrograd-Studios/eemblangtoolchain/raw/main/.eec.zip"},
+		{"label": "Alpha [v0.8.16]", "file": "v0_8_16.zip", "description": "", "ver": "0.8.16", "url": "https://github.com/Retrograd-Studios/eemblangtoolchain/archive/refs/tags/v0_8_17.zip"}
+	]
+}
