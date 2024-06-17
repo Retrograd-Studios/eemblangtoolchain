@@ -1,7 +1,6 @@
 {
 	"toolchains": [
-		{"label": "[v0.8.27]", "file": "0.8.27", "description": "[latest version]", "ver": "0.8.27", "url": "https://github.com/Retrograd-Studios/eemblangtoolchain/raw/v0_8_27/.eec.zip"},
-		{"label": "[v0.8.26]", "file": "0.8.26", "description": "", "ver": "0.8.26", "url": "https://github.com/Retrograd-Studios/eemblangtoolchain/raw/v0_8_26/.eec.zip"},
-		{"label": "[v0.0.1]", "file": "0.0.1", "description": "[Nightly version]", "ver": "0.0.1", "url": "https://github.com/Retrograd-Studios/eemblangtoolchain/raw/v0_0_1/.eec.zip"}
+		{"label":"[v0.9.0]","file":"0.9.0","description":"[Last Release]","ver":"0.9.0","url":"https://github.com/Retrograd-Studios/eemblangtoolchain/raw/v0_9_0/.eec.zip"},
+		{"label": "[v0.8.27]", "file": "0.8.27", "description": "", "ver": "0.8.27", "url": "https://github.com/Retrograd-Studios/eemblangtoolchain/raw/v0_8_27/.eec.zip"}
 	]
 }
