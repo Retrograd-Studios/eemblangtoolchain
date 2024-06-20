@@ -1,6 +1,5 @@
 {
 	"toolchains": [
-		{"label":"[v0.9.1]","file":"0.9.1","description":"[Last Release]","ver":"0.9.1","url":"https://github.com/Retrograd-Studios/eemblangtoolchain/raw/v0_9_1/.eec.zip"},
 		{"label": "[v0.8.27]", "file": "0.8.27", "description": "", "ver": "0.8.27", "url": "https://github.com/Retrograd-Studios/eemblangtoolchain/raw/v0_8_27/.eec.zip"}
 	]
 }
