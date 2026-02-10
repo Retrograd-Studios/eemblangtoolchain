@@ -1,0 +1,5 @@
+{
+	"toolchains": [
+		{"label":"[v0.9.25]","file":"v0.9.25","description":"[test]", "ver":"0.9.25", "api": 2, "url":"https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/sWTzlCxBiYxd0w"}
+	]
+}
